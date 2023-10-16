@@ -22,8 +22,8 @@ class kakaoTEST {
     String senderKey = System.getenv("KAKAO_SENDER_KEY");;
     String title = "Acoms+ 알림톡";
     String userKey = "0102";
-    String templateCode = "SJB_102055";
-    String receiverTelNo = "01044723242";
+    String templateCode = "SJB1132";
+    String receiverTelNo = "12341234";
     
     // 테스트 케이스 활용을 위한 템플릿 설정 값
     private Map<String, String> prepareTemplateValues() {
